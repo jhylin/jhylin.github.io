@@ -1,6 +1,8 @@
 ---
-Title: "Test"
-Author: "jhylin"
+title: "Update on portfolio"
+author: "Jennifer HY Lin"
+date: "2022-06-13"
+categories: [Blog]
 ---
 ### Intro
 This is a test.
